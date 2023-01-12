@@ -37,6 +37,7 @@ const Navbar = () => {
                 <Link to='/' className='nav-item nav-logo'>
                     <img src={logo} alt='logo' />
                 </Link>
+                <a href="https://github.com/PandamanMe/AskPanda-front">Github</a>
                 <Link to='/' className='nav-item nav-btn'>About</Link>
                 <Link to='/' className='nav-item nav-btn'>Products</Link>
                 <Link to='/' className='nav-item nav-btn'>For Teams</Link>
